@@ -233,7 +233,7 @@ This project strengthened practical skills in:
 #Azmat Tanver
 
 🔗 GitHub Profile:
-"GitHub Portfolio" (https://github.com/azmattanveer409?utm_source=chatgpt.com)
+"GitHub Portfolio" (https://github.com/azmattanveer409)
 
 ---
 
