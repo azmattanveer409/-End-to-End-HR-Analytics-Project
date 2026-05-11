@@ -1,6 +1,6 @@
-**🚀 HR Analytics Project | Excel + Python + SQL + Power BI**
+# 🚀 HR Analytics Project | Excel + Python + SQL + Power BI
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is an end-to-end HR Analytics solution focused on employee attrition analysis, workforce insights, and business-oriented decision-making using modern analytics tools and technologies.
 
@@ -22,7 +22,7 @@ This project combines:
 
 ---
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Category| Tools
 Spreadsheet Tools| Excel
@@ -35,9 +35,9 @@ Visualization| Power BI
 
 ---
 
-📂 Project Workflow
+## 📂 Project Workflow
 
-🔹 1. Excel Preprocessing
+### 🔹 1. Excel Preprocessing
 
 Performed initial preprocessing and basic data preparation in Excel to understand the structure and quality of the dataset.
 
@@ -50,9 +50,9 @@ Tasks Performed:
 
 ---
 
-🐍 2. Python Data Analysis
+### 🐍 2. Python Data Analysis
 
-📥 Step 1: Importing Libraries
+**📥 Step 1: Importing Libraries**
 
 Imported required libraries for:
 
@@ -63,13 +63,13 @@ Imported required libraries for:
 
 ---
 
-📊 Step 2: Loading Data
+**📊 Step 2: Loading Data**
 
 Loaded the HR dataset into Jupyter Notebook using Pandas.
 
 ---
 
-🔍 Step 3: Understanding the Data
+### 🔍 Step 3: Understanding the Data
 
 Performed initial data exploration using:
 
@@ -87,7 +87,7 @@ Analysis Included:
 
 ---
 
-🧹 Step 4: Data Cleaning
+### 🧹 Step 4: Data Cleaning
 
 Performed multiple preprocessing tasks including:
 
@@ -100,7 +100,7 @@ Performed multiple preprocessing tasks including:
 
 ---
 
-⚙️ Step 5: Feature Engineering
+### ⚙️ Step 5: Feature Engineering
 
 Created new analytical features including:
 
@@ -115,7 +115,7 @@ To improve analytical insights and prepare the dataset for advanced analytics an
 
 ---
 
-📈 Step 6: Exploratory Data Analysis (EDA)
+### 📈 Step 6: Exploratory Data Analysis (EDA)
 
 Performed HR-focused business analysis using multiple charts and visualizations.
 
@@ -138,7 +138,7 @@ Analysis Included:
 
 ---
 
-🗄️ SQL Analysis
+## 🗄️ SQL Analysis
 
 Connected Python/Jupyter Notebook with MySQL using:
 
@@ -149,7 +149,7 @@ Uploaded the cleaned dataset into MySQL and solved multiple business-oriented HR
 
 ---
 
-📊 SQL Business Analysis Includes:
+## 📊 SQL Business Analysis Includes:
 
 - Employee attrition analysis
 - Department-wise analysis
@@ -162,7 +162,7 @@ Uploaded the cleaned dataset into MySQL and solved multiple business-oriented HR
 
 ---
 
-🤖 Machine Learning (Upcoming / In Progress)
+## 🤖 Machine Learning (Upcoming / In Progress)
 
 The next phase of the project includes:
 
@@ -176,7 +176,7 @@ The next phase of the project includes:
 
 ---
 
-📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 An interactive 3-page Power BI dashboard will be developed to visualize HR insights and business KPIs.
 
@@ -191,7 +191,7 @@ Dashboard Features:
 
 ---
 
-📁 Project Deliverables
+## 📁 Project Deliverables
 
 ✅ EDA Jupyter Notebook
 ✅ SQL Query File
@@ -202,7 +202,7 @@ Dashboard Features:
 
 ---
 
-🎯 Key Learning Outcomes
+## 🎯 Key Learning Outcomes
 
 This project strengthened practical skills in:
 
@@ -218,7 +218,7 @@ This project strengthened practical skills in:
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 - Advanced Machine Learning Models
 - Predictive HR Analytics
@@ -228,9 +228,9 @@ This project strengthened practical skills in:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Azmat Tanver
+#Azmat Tanver
 
 🔗 GitHub Profile:
 "GitHub Portfolio" (https://github.com/azmattanveer409?utm_source=chatgpt.com)
